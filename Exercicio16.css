@@ -1,0 +1,22 @@
+nav {
+	width:1325px;
+	background-color:#00FFFF;
+	padding:5px;
+	border:3px inset black;
+}
+ul {
+	background-color:#FFFAFA;
+	padding: 50px;
+	border: 3px outset blue;
+	margin: 0;
+}
+li {
+	list-style:none;
+	padding:3px 5px;
+	background-color:#FFFAFA;
+	margin-bottom:2px;
+	font: 15px verdana, arial, sans-serif;
+	text-align: center;
+	border: 15px outset yellow;
+	-webkit-background-origin:border-box;
+}
